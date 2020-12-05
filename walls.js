@@ -37,7 +37,7 @@ function createCantGoLists() {
 	verticalEdges.push(new VertEdge(8, 10, 11));
 	verticalEdges.push(new VertEdge(8, 13, 22));
 	verticalEdges.push(new VertEdge(10, 4, 9));
-	verticalEdges.push(new VertEdge(10, 12, 16));
+	verticalEdges.push(new VertEdge(10, 11, 16));
 	verticalEdges.push(new VertEdge(11, 18, 20));
 	verticalEdges.push(new VertEdge(12, 2, 4));
 	verticalEdges.push(new VertEdge(12, 8, 11));
